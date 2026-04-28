@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://matiabalo.up.railway.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-matiabalo.up.railway.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:abalito95@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -17,14 +17,15 @@
 
 ## 🚀 About me · Sobre mí
 
-**EN:** I'm a self-taught developer and Computer Science student at **UTN**, focused on **full-stack web development** and **Python automation**. I love building real tools that solve real problems.
+**EN:** I'm a self-taught developer and Computer Science student at **UTN**, focused on **full-stack web development** and **Python automation**. I build real tools that solve real problems — from e-commerce platforms with AI features to web scrapers and SaaS apps.
 
-**ES:** Soy desarrollador autodidacta y estudiante de programación en la **UTN**, enfocado en **desarrollo web full-stack** y **automatización con Python**. Me apasiona construir herramientas reales que resuelvan problemas concretos.
+**ES:** Soy desarrollador autodidacta y estudiante de programación en la **UTN**, enfocado en **desarrollo web full-stack** y **automatización con Python**. Construyo herramientas reales que resuelven problemas concretos — desde e-commerce con IA hasta scrapers y aplicaciones SaaS.
 
 - 🔭 Currently building **e-commerce and SaaS projects** · Actualmente trabajando en **e-commerce y SaaS**
 - 🌱 Learning **Flask, PostgreSQL, Railway & Supabase**
 - 💡 Interested in **Data Science & process automation** · Interesado en **Data Science y automatización**
 - 🎯 Looking for my **first job as a developer** · Buscando mi **primer empleo como desarrollador**
+- 🌐 Portfolio: **[matiabalo.up.railway.app](https://matiabalo.up.railway.app/)**
 - 📍 San Salvador de Jujuy, Argentina
 
 ---
