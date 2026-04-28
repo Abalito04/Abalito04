@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy Matias Abalo 👋</h1>
-<h3 align="center">Desarrollador Web & Python · Estudiante UTN · Argentina 🇦🇷</h3>
+<h1 align="center">Hi, I'm Matias Abalo 👋 · Hola, soy Matias Abalo 👋</h1>
+<h3 align="center">Web & Python Developer · Student at UTN · Argentina 🇦🇷</h3>
 
 <p align="center">
   <a href="https://matiabalo.up.railway.app/" target="_blank">
@@ -15,19 +15,21 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About me · Sobre mí
 
-Soy desarrollador autodidacta y estudiante de programación en la **UTN**, enfocado en **desarrollo web full-stack** y **automatización con Python**. Me apasiona construir herramientas reales que resuelvan problemas concretos.
+**EN:** I'm a self-taught developer and Computer Science student at **UTN**, focused on **full-stack web development** and **Python automation**. I love building real tools that solve real problems.
 
-- 🔭 Actualmente trabajando en proyectos de **e-commerce y SaaS**
-- 🌱 Aprendiendo **Flask, PostgreSQL y despliegue en Railway/Supabase**
-- 💡 Interesado en **Data Science y automatización de procesos**
-- 🎯 Buscando mi **primer empleo como desarrollador**
+**ES:** Soy desarrollador autodidacta y estudiante de programación en la **UTN**, enfocado en **desarrollo web full-stack** y **automatización con Python**. Me apasiona construir herramientas reales que resuelvan problemas concretos.
+
+- 🔭 Currently building **e-commerce and SaaS projects** · Actualmente trabajando en **e-commerce y SaaS**
+- 🌱 Learning **Flask, PostgreSQL, Railway & Supabase**
+- 💡 Interested in **Data Science & process automation** · Interesado en **Data Science y automatización**
+- 🎯 Looking for my **first job as a developer** · Buscando mi **primer empleo como desarrollador**
 - 📍 San Salvador de Jujuy, Argentina
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -45,27 +47,27 @@ Soy desarrollador autodidacta y estudiante de programación en la **UTN**, enfoc
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Featured Projects · Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías | Demo |
-|----------|-------------|-------------|------|
-| [🛒 WHIP Helmets](https://github.com/Abalito04/WHIP---HELMETS) | E-commerce completo con carrito y pasarela de pagos | Python · Flask · HTML/CSS · JS | [▶ Ver](https://whip-helmets.up.railway.app/) |
-| [🍽️ App Restaurante](https://github.com/Abalito04/App-resto) | SaaS para gestión de restaurantes: menús, pedidos, usuarios | Flask · SQLite · Bootstrap | [▶ Ver](https://app-resto.up.railway.app/) |
-| [🔍 Scraper MercadoLibre](https://github.com/Abalito04/Scraper-MercadoLibre) | Extracción automática de precios y productos, exporta a CSV/Excel | Python · BeautifulSoup · Pandas | — |
-| [💰 FlanCitos](https://github.com/Abalito04/FlanCitos) | Sistema de ventas y gestión para local comercial | Python | — |
-| [📚 UTN — Programación 1](https://github.com/Abalito04/UTN-TUPaDProgramacion1) | Trabajos prácticos de la carrera TUPaD en UTN | Python · Git | — |
+| Project | Description | Tech | Demo |
+|---------|-------------|------|------|
+| [🛒 WHIP Helmets](https://github.com/Abalito04/WHIP---HELMETS) | Full e-commerce with shopping cart & payment gateway | Python · Flask · HTML/CSS · JS | [▶ Live](https://whip-helmets.up.railway.app/) |
+| [🍽️ Restaurant App](https://github.com/Abalito04/App-resto) | SaaS for restaurant management: menus, orders, users | Flask · SQLite · Bootstrap | [▶ Live](https://app-resto.up.railway.app/) |
+| [🔍 MercadoLibre Scraper](https://github.com/Abalito04/Scraper-MercadoLibre) | Automated scraper: prices, titles & links exported to CSV/Excel | Python · BeautifulSoup · Pandas | — |
+| [💰 FlanCitos](https://github.com/Abalito04/FlanCitos) | Sales & management system for a small business | Python | — |
+| [📚 UTN — Programming 1](https://github.com/Abalito04/UTN-TUPaDProgramacion1) | Academic projects from TUPaD degree at UTN | Python · Git | — |
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abalito04&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abalito04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abalito04&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Langs"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>"El código es como el humor. Cuando hay que explicarlo, es malo." — Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 </p>
