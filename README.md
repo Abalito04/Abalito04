@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
@@ -51,10 +52,10 @@
 
 | Project | Description | Tech | Demo |
 |---------|-------------|------|------|
-| [🛒 WHIP Helmets](https://github.com/Abalito04/WHIP---HELMETS) | Full e-commerce with shopping cart & payment gateway | Python · Flask · HTML/CSS · JS | [▶ Live](https://whip-helmets.up.railway.app/) |
+| [👾 WHIP Helmets Catalog](https://github.com/Abalito04/Catalogo-Whip-Helmet) | **Production app** — full catalog & management system with AI background removal, PostgreSQL, Cloudinary & MercadoPago | Python · Flask · PostgreSQL · Cloudinary · AI | 🟢 Live |
 | [🍽️ Restaurant App](https://github.com/Abalito04/App-resto) | SaaS for restaurant management: menus, orders, users | Flask · SQLite · Bootstrap | [▶ Live](https://app-resto.up.railway.app/) |
 | [🔍 MercadoLibre Scraper](https://github.com/Abalito04/Scraper-MercadoLibre) | Automated scraper: prices, titles & links exported to CSV/Excel | Python · BeautifulSoup · Pandas | — |
-| [💰 FlanCitos](https://github.com/Abalito04/FlanCitos) | Sales & management system for a small business | Python | — |
+| [💰 FlanCitos](https://github.com/Abalito04/FlanCitos) | Sales & management system for a small local business | Python · Flask | — |
 | [📚 UTN — Programming 1](https://github.com/Abalito04/UTN-TUPaDProgramacion1) | Academic projects from TUPaD degree at UTN | Python · Git | — |
 
 ---
