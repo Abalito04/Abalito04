@@ -25,7 +25,7 @@
 - 🌱 Learning **Flask, PostgreSQL, Railway & Supabase**
 - 💡 Interested in **Data Science & process automation** · Interesado en **Data Science y automatización**
 - 🎯 Looking for my **first job as a developer** · Buscando mi **primer empleo como desarrollador**
-- 🌐 Portfolio: **[matiabalo.up.railway.app](https://matiabalo.up.railway.app/)**
+- 🌐 Portfolio: **https://abalito.dev/**
 - 📍 San Salvador de Jujuy, Argentina
 
 ---
