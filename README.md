@@ -53,10 +53,9 @@
 
 | Project | Description | Tech | Demo |
 |---------|-------------|------|------|
+| [🤖 Turn-IA](https://github.com/Abalito04/Turn-Ia) | **Proyecto principal** — SaaS de gestión de turnos con IA. App móvil disponible en Google Play Store | Python · Flask · PostgreSQL · PWA · Android | [▶ Live](https://turn-ia.app/) |
 | [👾 WHIP Helmets Catalog](https://github.com/Abalito04/Catalogo-Whip-Helmet) | **Production app** — full catalog & management system with AI background removal, PostgreSQL, Cloudinary & MercadoPago | Python · Flask · PostgreSQL · Cloudinary · AI | [▶ Live](https://whip-helmets.com.ar/) |
 | [🍽️ Restaurant App](https://github.com/Abalito04/App-resto) | SaaS for restaurant management: menus, orders, users | Flask · SQLite · Bootstrap | [▶ Live](https://app-resto.up.railway.app/) |
-| [🔍 MercadoLibre Scraper](https://github.com/Abalito04/Scraper-MercadoLibre) | Automated scraper: prices, titles & links exported to CSV/Excel | Python · BeautifulSoup · Pandas | — |
-| [💰 FlanCitos](https://github.com/Abalito04/FlanCitos) | Sales & management system for a small local business | Python · Flask | — |
 | [📚 UTN — Programming 1](https://github.com/Abalito04/UTN-TUPaDProgramacion1) | Academic projects from TUPaD degree at UTN | Python · Git | — |
 
 ---
