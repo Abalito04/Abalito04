@@ -22,7 +22,7 @@
 **ES:** Soy desarrollador autodidacta y estudiante de programación en la **UTN**. Construyo productos reales con usuarios reales: plataformas SaaS, apps con IA, bots de automatización y sistemas full-stack deployados en Railway. Me apasiona el código limpio, la automatización práctica y resolver problemas concretos con software.
 
 - 🔭 Currently building **Turn-IA** — SaaS de gestión de turnos con IA y app en Google Play
-- 🤖 Working on **AI integrations** — Gemini & Claude API bots, automation workflows with n8n
+- 🤖 Working on **AI integrations** — Gemini & Claude API trading bots, automation workflows with n8n
 - 🌱 Exploring **Docker, n8n, ccxt & algorithmic trading systems**
 - 💡 Interested in **Data Science, process automation & algorithmic trading**
 - 🎯 Looking for my **first job as a developer** · Buscando mi **primer empleo como desarrollador**
@@ -61,8 +61,8 @@
 | [🤖 Turn-IA](https://github.com/Abalito04/Turn-Ia) | **Flagship SaaS** — multi-tenant appointment & sales management system with AI. Mobile app on Google Play Store | Python · Flask · PostgreSQL · PWA · Android | [▶ Live](https://turn-ia.app/) |
 | [👾 WHIP Helmets](https://github.com/Abalito04/Catalogo-Whip-Helmet) | **Production app** — full catalog & management with AI background removal, Cloudinary & MercadoPago integration | Python · Flask · PostgreSQL · Cloudinary · AI | [▶ Live](https://whip-helmets.com.ar/) |
 | [🍽️ Restaurant App](https://github.com/Abalito04/App-resto) | SaaS for restaurant management: digital menus, order tracking, multi-user roles | Flask · SQLite · Bootstrap | [▶ Live](https://app-resto.up.railway.app/) |
-| [🤖 Bot-Gemini](https://github.com/Abalito04/Bot-Gemini) | Conversational AI chatbot powered by Google Gemini API with context memory | Python · Gemini API · Flask | — |
-| [🧠 Bot-Claude](https://github.com/Abalito04/Bot-Claude) | Conversational AI chatbot using Anthropic's Claude API | Python · Claude API · Flask | — |
+| [🤖 Bot-Gemini](https://github.com/Abalito04/Bot-Gemini) | Algorithmic trading bot using Google Gemini AI for market analysis and automated trade signals | Python · Gemini API | — |
+| [🧠 Bot-Claude](https://github.com/Abalito04/Bot-Claude) | Algorithmic trading bot using Anthropic Claude AI for market analysis and automated trade signals | Python · Claude API | — |
 | [🏠 Proyecto Inmobiliario](https://github.com/Abalito04/Projecto-Inmobiliario) | Real estate listing web app with property management | Python · Flask · HTML/CSS | — |
 | [🔍 Scraper MercadoLibre](https://github.com/Abalito04/Scraper-MercadoLibre) | Functional product scraper for MercadoLibre with price tracking | Python · BeautifulSoup · Requests | — |
 
