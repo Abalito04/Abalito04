@@ -71,8 +71,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abalito04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abalito04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" alt="Top Langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abalito04&theme=tokyonight" width="95%" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abalito04&theme=tokyonight" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abalito04&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abalito04&theme=tokyonight" width="32%" alt="Stats"/>
 </p>
 
 <p align="center">
