@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abalito04&theme=tokyonight&hide_border=true" width="55%" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abalito04&theme=tokyonight&utcOffset=-3" width="55%" alt="Productive Time"/>
 </p>
 
 ---
