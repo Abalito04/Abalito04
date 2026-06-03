@@ -71,12 +71,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abalito04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abalito04&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abalito04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abalito04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abalito04&theme=tokyonight&hide_border=true" width="55%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Abalito04&theme=tokyonight&hide_border=true" width="55%" alt="GitHub Streak"/>
 </p>
 
 ---
