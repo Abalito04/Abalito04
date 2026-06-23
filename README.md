@@ -64,7 +64,6 @@
 | [🤖 Bot-Gemini](https://github.com/Abalito04/Bot-Gemini) | Algorithmic trading bot using Google Gemini AI for market analysis and automated trade signals | Python · Gemini API | — |
 | [🧠 Bot-Claude](https://github.com/Abalito04/Bot-Claude) | Algorithmic trading bot using Anthropic Claude AI for market analysis and automated trade signals | Python · Claude API | — |
 | [🏠 Proyecto Inmobiliario](https://github.com/Abalito04/Projecto-Inmobiliario) | Real estate listing web app with property management | Python · Flask · HTML/CSS | — |
-| [🔍 Scraper MercadoLibre](https://github.com/Abalito04/Scraper-MercadoLibre) | Functional product scraper for MercadoLibre with price tracking | Python · BeautifulSoup · Requests | — |
 
 ---
 
